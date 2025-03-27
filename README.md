@@ -3,7 +3,7 @@
 # 🚀 Kushal Upadhyay  
 **Data Engineer | Business Systems & IT | Cloud & Automation Enthusiast**  
 
-📍 Fort Collins, CO | 📧 [Email](mailto:kushal.upadhyay7897@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/kushal-upadhyay/)  
+📧 [Email](mailto:kushal.upadhyay7897@gmail.com)  
 
 ---
 
