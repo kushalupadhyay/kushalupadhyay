@@ -1,7 +1,6 @@
-## Hi there 👋
+# Hi there 👋, I am Kushal Upadhyay 
 
-# 🚀 Kushal Upadhyay  
-**Data Engineer | Business Systems & IT | Cloud & Automation Enthusiast**  
+## 🚀 **Data Engineer | Business Systems & IT | Cloud & Automation Enthusiast**  
 
 ---
 
@@ -18,35 +17,6 @@
 
 ### **Data Visualization & BI**  
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)  
-
----
-
-## 💼 Experience  
-
-### **Information Systems Lead | AtmosZero (2023 – Present)**  
-- Designed & implemented a **scalable ETL pipeline** (Python, PostgreSQL), reducing **data latency by 60%**.  
-- Developed **CRM, PO, and HRIS integrations**, automating workflows & saving **200+ hours annually**.  
-- Managed IT systems across multiple locations, ensuring **100% uptime & reducing operational costs by 60%**.  
-- Led a team of **4 engineers**, achieving a **99.22% same-day ticket resolution rate**.  
-
-### **Innovation & Technology Analyst Co-op | Danfoss (2022)**  
-- Developed **data-driven solutions** supporting business operations & partner strategies.  
-- Identified **200+ market expansion opportunities**, driving new acquisitions & co-development prospects.  
-- Designed analytical reports highlighting top 5 acquisition targets for strategic growth.  
-
-### **Project Intern | Bosch Limited (2019)**  
-- Conducted a **supply chain analysis**, cutting fuel pump defect rates by **50%**.  
-- Built an internal benchmarking database to track quality control trends.  
-
-### **Industrial Intern | Tata Motors (2017)**  
-- Designed **5 quality control protocols**, enhancing defect detection & prevention.  
-- Conducted **statistical defect analysis**, eliminating recurrence at key production stages.  
-
----
-
-## 🎓 Certifications  
-- 🏅 **IBM Data Engineering Professional**  
-- 🏅 **Meta Back End Developer Professional**  
 
 ---
 
